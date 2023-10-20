@@ -5,24 +5,37 @@
 ## Skills
 ### Frameworks
 ![Static Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Apache_Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### CI/CD
+![Static Badge](https://img.shields.io/badge/Github_Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Infras
-![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Amazon_SQS-%23FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 <br />
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+<br />
+![Static Badge](https://img.shields.io/badge/Elastic_Search-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Fluent_Bit-%2349BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### ETC
 
 
-## I usually work like...
+## I've been working like this lately.
 ![Taeeun's wakatime stats](https://github-readme-stats-plum-five-48.vercel.app/api/wakatime?username=xodms1701)
 
 ## Latest Post
