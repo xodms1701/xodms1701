@@ -48,3 +48,7 @@
 
 ## Latest Post
 ![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=samuel-alter1128&postId=27&theme=tistory)
+
+## My Badges
+<!-- my-badges start -->
+<!-- my-badges end -->
