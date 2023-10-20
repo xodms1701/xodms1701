@@ -34,7 +34,13 @@
 ![Static Badge](https://img.shields.io/badge/Fluent_Bit-%2349BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-### ETC
+### DB
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/dynamoDB-%234053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
 
 
 ## I've been working like this lately.
