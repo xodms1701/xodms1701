@@ -1,0 +1,107 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/xodms1701/xodms1701/commit/aa6a9094c218b17962d404dc2e2482fe976bef28\"><strong>a</strong>a6a9094c218b17962d404dc2e2482fe976bef28</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/team-ASAP/book/commit/abd67e676621efe773e5c15430641297d995f5d4\"><strong>ab</strong>d67e676621efe773e5c15430641297d995f5d4</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xodms1701/xodms1701/commit/efe15cca1d72233669f9fefd68af9c6a3b5e45db\">efe15cc</a>\n- <a href=\"https://github.com/xodms1701/xodms1701/commit/5ecaedf5d2af0a68d5f3f125ba5b3b900d71805d\">5ecaedf</a>\n- <a href=\"https://github.com/xodms1701/xodms1701/commit/630d07f0f8009504d9ce51e0ec29da07e8334f82\">630d07f</a>\n- <a href=\"https://github.com/xodms1701/xodms1701/commit/ba9c6c6d1701fcf063ee4f05b896c34624170624\">ba9c6c6</a>\n- <a href=\"https://github.com/xodms1701/xodms1701/commit/4f978a698fe1d69f748a04aafb02a481c00c2457\">4f978a6</a>\n- <a href=\"https://github.com/xodms1701/DDD-study/commit/6cc1fa833f2837a19bc7a62ddb34e5de9de1d161\">6cc1fa8</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xodms1701/landing-page-desktop/commit/f601fd3385d75121ebe11530ecba63a63e4439ee\">f601fd3</a>\n- <a href=\"https://github.com/xodms1701/ER-GAMES/commit/ef345bdd78746d9eac5106fd450404636453bb36\">ef345bd</a>\n- <a href=\"https://github.com/xodms1701/infoprotect/commit/2103b965ace1616fd51bdb7271a712ee2ebdd078\">2103b96</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xodms1701/infoprotect/commit/08e299fb058b6345c2618db5f8ce3323adaaac86\">08e299f</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 1 times.",
+    "body": "- <a href=\"https://github.com/team-ASAP/asap-toy-be1/commit/0a2dead83dc03d2526261cebfba772404218f977\">0a2<strong>dead</strong>83dc03d2526261cebfba772404218f977</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xodms1701/write-platform-back/commit/e07de1ad5bcce5a920ba2444fca365e85ede5a82\">e07de1a</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xodms1701/write-platform-back/commit/e07de1ad5bcce5a920ba2444fca365e85ede5a82\">e07de1a</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/team-metalogos/160-admin/pull/2\">#2</a>: Update app_CI.yml\n- <a href=\"https://github.com/team-metalogos/160-admin/pull/3\">#3</a>: Staging",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/team-metalogos/160-monolithic/issues/42\">#42</a>\n- <a href=\"https://github.com/team-metalogos/160-samsung/issues/42\">#42</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 42 times)\n2. readme.md (used 30 times)\n3. commit (used 24 times)\n4. merge (used 19 times)\n5. create (used 18 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/rebel-coder.png?raw=true"
+  }
+]
