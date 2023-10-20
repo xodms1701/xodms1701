@@ -47,7 +47,7 @@
 ![Taeeun's wakatime stats](https://github-readme-stats-plum-five-48.vercel.app/api/wakatime?username=xodms1701)
 
 ## Latest Post
-![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=samuel-alter1128&postId=27&theme=tistory)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=samuel-alter1128&postId=27&theme=tistory)](https://samuel-alter1128.tistory.com/27)
 
 ## My Badges
 <!-- my-badges start -->
