@@ -3,11 +3,11 @@
 ![Taeeun's Github Stats](https://github-readme-stats-plum-five-48.vercel.app/api?username=xodms1701&count_private=true&show_icons=true&&theme=radical)
 
 ## Skills
+
 ### Frameworks
 ![Static Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Apache_Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,8 +21,10 @@
 ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Infras
+![Static Badge](https://img.shields.io/badge/Apache_Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon_SQS-%23FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Amazon_S3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 <br />
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
