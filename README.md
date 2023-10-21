@@ -68,3 +68,4 @@
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
 <a href="my-badges/rebel-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/rebel-coder.png?raw=true" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
 <!-- my-badges end -->
+
