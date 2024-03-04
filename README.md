@@ -23,7 +23,6 @@
 ### Infras
 ![Static Badge](https://img.shields.io/badge/Apache_Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon_SQS-%23FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon_S3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 <br />
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,6 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/dynamoDB-%234053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
 
